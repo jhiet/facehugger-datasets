@@ -6,26 +6,31 @@
   {
     "id": "cluster-4",
     "name": "screen",
-    "parent": "root"
+    "parent": "root",
+    "value":100
   },
   {
     "id": "cluster-4-1",
     "name": "so i think i could actually share my screen so we're all in the same same place",
-    "parent": "cluster-4"
+    "parent": "cluster-4",
+    "value":100
   },
   {
     "id": "cluster-4-2",
     "name": "i need i need to stop screen share bubbs",
-    "parent": "cluster-4"
+    "parent": "cluster-4",
+    "value":100
   },
   {
     "id": "cluster-3",
     "name": "users",
-    "parent": "root"
+    "parent": "root",
+    "value":100
   },
   {
     "id": "cluster-3-1",
     "name": "so the web shop can automatically add or remove users from a workspace",
-    "parent": "cluster-3"
+    "parent": "cluster-3",
+    "value":100
   }
 ]
