@@ -1,0 +1,31 @@
+[
+  {
+    "id": "root",
+    "name": "Webinar"
+  },
+  {
+    "id": "cluster-4",
+    "name": "screen",
+    "parent": "root"
+  },
+  {
+    "id": "cluster-4-1",
+    "name": "so i think i could actually share my screen so we're all in the same same place",
+    "parent": "cluster-4"
+  },
+  {
+    "id": "cluster-4-2",
+    "name": "i need i need to stop screen share bubbs",
+    "parent": "cluster-4"
+  },
+  {
+    "id": "cluster-3",
+    "name": "users",
+    "parent": "root"
+  },
+  {
+    "id": "cluster-3-1",
+    "name": "so the web shop can automatically add or remove users from a workspace",
+    "parent": "cluster-3"
+  },
+]
