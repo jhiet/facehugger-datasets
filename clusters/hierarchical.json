@@ -27,5 +27,5 @@
     "id": "cluster-3-1",
     "name": "so the web shop can automatically add or remove users from a workspace",
     "parent": "cluster-3"
-  },
+  }
 ]
