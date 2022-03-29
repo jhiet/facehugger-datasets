@@ -1,2 +1,2 @@
 # facehugger-datasets
-Simple datasets for natural language processing tasks
+Tiny datasets for natural language processing tasks
