@@ -1,0 +1,34 @@
+[{
+    "x": "A",
+    "value": 18,
+    "name": "trust",
+    "fill": "green 0.3"
+}, {
+    "x": "B",
+    "value": 15,
+    "name": "communicate"
+}, {
+    "x": "C",
+    "value": 15,
+    "name": "Adaptive",
+}, {
+    "x": "D",
+    "value": 12,
+    "name": "Uniqueness",
+}, {
+    "x": "E",
+    "value": 12,
+    "name": "People",
+}, {
+    "x": "F",
+    "value": 9,
+    "name": "Team",
+}, {
+    "x": "G",
+    "value": 9,
+    "name": "Impact",
+}, {
+    "x": "G",
+    "value": 9,
+    "name": "Feeling",
+}]
